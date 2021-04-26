@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:i="&amp;ns_ai;"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   enable-background="new 0 0 193 193"
+   viewBox="0 0 193 193"
+   height="193px"
+   width="193px"
+   y="0px"
+   x="0px"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="add-post.svg"
+   id="svg192"
+   version="1.1"><metadata
+   id="metadata1056"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs1054" /><sodipodi:namedview
+   inkscape:guide-bbox="true"
+   showguides="true"
+   inkscape:current-layer="svg192"
+   inkscape:window-maximized="0"
+   inkscape:window-y="23"
+   inkscape:window-x="41"
+   inkscape:cy="133.85437"
+   inkscape:cx="139.43002"
+   inkscape:zoom="1.5699302"
+   showgrid="false"
+   id="namedview1052"
+   inkscape:window-height="755"
+   inkscape:window-width="1245"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff"><sodipodi:guide
+     id="guide2439"
+     orientation="0,-1"
+     position="210.8374,96.18041" /><sodipodi:guide
+     id="guide2441"
+     orientation="1,0"
+     position="96.182619,184.08241" /></sodipodi:namedview>
+<switch
+   transform="matrix(0.67027384,0,0,0.67027384,31.907661,32.544632)"
+   id="switch1049">
+	<foreignObject
+   height="1"
+   width="1"
+   y="0"
+   x="0"
+   requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/">
+		
+	</foreignObject>
+	<g
+   id="g1047"
+   i:extraneous="self">
+		<g
+   id="g1039">
+			<g
+   id="g1037">
+				<rect
+   id="rect1035"
+   height="170"
+   width="26.5"
+   fill="#008000"
+   y="11.5"
+   x="83.25" />
+			</g>
+		</g>
+		<g
+   id="g1045">
+			<g
+   id="g1043">
+				<rect
+   id="rect1041"
+   height="26.5"
+   width="170"
+   fill="#008000"
+   y="83.25"
+   x="11.5" />
+			</g>
+		</g>
+	</g>
+</switch>
+
+<rect
+   ry="40.742199"
+   y="10.191536"
+   x="10.191536"
+   height="173.2561"
+   width="173.2561"
+   id="rect2443"
+   style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:12.71811024;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></svg>
